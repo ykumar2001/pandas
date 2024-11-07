@@ -1,0 +1,11 @@
+ID,Name,Age,Date_of_Birth,Score,Remarks
+1,John Doe ,25,19950512,85,Excellent
+2,Jane Doe,22,19980914,90, Very good
+3,Sam Smith,,-,75,Good
+4,Linda,24,19961220,, Average
+5, Michael   ,30,19921210,88,Very good
+6,Anne,26,19940730,93,Excellent
+7,,28,19930815,76,Good
+8,Tom ,,19891011,69,Fair
+9, Jerry,33,19870122,72,Fair
+10,Susan Ray,29,19900614,81,Good
